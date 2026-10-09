@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/NemoClaw/commit/59107b0e7b1f2f2a5ece0a7d9fb853e83d36d6c4",
       "git:hexsha": "59107b0e7b1f2f2a5ece0a7d9fb853e83d36d6c4",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
