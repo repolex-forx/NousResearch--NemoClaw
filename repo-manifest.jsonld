@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/NemoClaw/commit/59107b0e7b1f2f2a5ece0a7d9fb853e83d36d6c4",
       "git:hexsha": "59107b0e7b1f2f2a5ece0a7d9fb853e83d36d6c4",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-09T13:10:30.155314+00:00"
     }
   ]
 }
