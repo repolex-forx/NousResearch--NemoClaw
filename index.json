@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "NemoClaw",
+  "versions": [
+    {
+      "commit": "59107b0e7b1f2f2a5ece0a7d9fb853e83d36d6c4",
+      "tag": "main",
+      "parsed_at": "2026-10-09T13:10:30.155775+00:00"
+    }
+  ]
+}
